@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Day 2 - Variables, User Input, and If Statement
+# Variables, User Input, and If Statement
 
 clear
 echo "🔮 Welcome to Day 2 of your Bash journey, $USER!"
